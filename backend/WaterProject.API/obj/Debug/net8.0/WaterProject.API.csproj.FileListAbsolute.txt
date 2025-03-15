@@ -128,10 +128,11 @@ C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProj
 C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WaterProject.API.props
 C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WaterProject.API.props
 C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterPro.EB763448.Up2Date
 C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.dll
 C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\refint\WaterProject.API.dll
 C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.pdb
 C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.genruntimeconfig.cache
 C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\ref\WaterProject.API.dll
+C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.sourcelink.json
+C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
