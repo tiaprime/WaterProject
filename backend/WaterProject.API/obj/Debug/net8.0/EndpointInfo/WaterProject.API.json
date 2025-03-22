@@ -28,6 +28,16 @@
               "format": "int32",
               "default": 1
             }
+          },
+          {
+            "name": "projectTypes",
+            "in": "query",
+            "schema": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
           }
         ],
         "responses": {

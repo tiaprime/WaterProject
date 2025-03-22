@@ -23,7 +23,7 @@ function ProjectList({selectedCategories}: {selectedCategories: string[]}) {
         } 
 
         fetchProjects()
-    }, [pageSize, pageNum, totalItems])
+    }, [pageSize, pageNum, totalItems, selectedCategories])
 
     return (
     <>
