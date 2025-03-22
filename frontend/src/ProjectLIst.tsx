@@ -10,8 +10,8 @@ function ProjectList() {
 
     useEffect(() => {
         const fetchProjects = async () => {
-            const respnose = await fetch(`https://localhost:5000/water/allprojects?pageSize=${pageSize}&pageNum=${pageNum}`);
-            const data = await respnose.json()
+            const response = await fetch(`https://localhost:5000/water/allprojects?pageSize=${pageSize}&pageNum=${pageNum}`);
+            const data = await response.json()
             setProjects(data.projects)
             setTotalItems(data.totalNumProjects)
             setTotalPages(Math.ceil(totalItems/pageSize))
