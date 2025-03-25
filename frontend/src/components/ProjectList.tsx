@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import {Project} from "./types/Project"
+import {Project} from "../types/Project"
 
 function ProjectList({selectedCategories}: {selectedCategories: string[]}) {
     const [projects, setProjects] = useState<Project[]>([])
@@ -40,6 +40,8 @@ function ProjectList({selectedCategories}: {selectedCategories: string[]}) {
                     <li> <strong>Project Phase:</strong> {p.projectPhase}</li>
                     <li> <strong>Project Status:</strong> {p.projectFunctionalityStatus}</li>
                 </ul>
+
+                <button className="btn btn-success" >Donate</button>
             </div>
 
         </div>
