@@ -8,9 +8,9 @@ function ProjectsPage(){
 
     return (
         <div className='container mt-4'>
-        <div className='row bg-primary text-white '>
+
             <Welcome/>
-        </div>
+
         <div className='row'>
             <div className='col-md-3'>
                 <CategoryFilter selectedCategories={selectedCategories}
