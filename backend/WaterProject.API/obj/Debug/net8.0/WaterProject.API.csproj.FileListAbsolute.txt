@@ -135,4 +135,3 @@ C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProj
 C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.genruntimeconfig.cache
 C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\ref\WaterProject.API.dll
 C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.sourcelink.json
-C:\Users\matti\OneDrive\Desktop\spring2025\Hilton\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
