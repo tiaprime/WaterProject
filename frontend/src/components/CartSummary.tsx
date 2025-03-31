@@ -6,6 +6,7 @@ const CartSummary = () => {
     const { cart } = useCart();
 
   // ✅ Calculate total donation amount
+  //test
     const totalAmount = cart.reduce((sum, item) => sum + item.donationAmount, 0);
 
     return (
